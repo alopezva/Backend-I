@@ -21,3 +21,5 @@ console.log (edad);
 
 
 edad=edad +1;
+
+//console.clear ();
